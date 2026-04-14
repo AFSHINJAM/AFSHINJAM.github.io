@@ -6,7 +6,7 @@ subtitle: Research Associate, <a href='https://www.mcgill.ca/epi-biostat-occh/'>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo_2026-04-14_13-29-01.jpg
   image_circular: false
   more_info: >
     <p>McGill University</p>
