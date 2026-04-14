@@ -22,4 +22,4 @@ latest_posts:
   enabled: false
 ---
 
-I am a Research Associate at McGill University working at the intersection of statistical genetics, Mendelian randomization, and multi-omics integration. I develop and apply computational methods to understand the genetic and molecular basis of complex diseases using large-scale biobank data.
+I am a Research Associate at McGill University working at the intersection of statistical genetics, Machine Learning, and multi-omics integration. I develop and apply computational methods to understand the genetic and molecular basis of complex diseases using large-scale biobank data.
